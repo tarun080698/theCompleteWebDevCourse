@@ -137,6 +137,24 @@ i {
 .card {
   margin: 4%;
 }
+/* cta */
+#cta {
+  text-align: center;
+  background-color: #ff4c68;
+  color: whitesmoke;
+  padding: 6% 24%;
+}
+
+/* footer */
+#footer {
+  text-align: center;
+  background-color: whitesmoke;
+  padding: 5% 0%;
+}
+
+.footer-para {
+  margin-top: 2rem;
+}
 
 /* media queries */
 
