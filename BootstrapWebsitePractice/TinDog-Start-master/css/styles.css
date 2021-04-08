@@ -80,7 +80,7 @@ h3 {
 /* features */
 #features {
   background-color: whitesmoke;
-  padding: 6% 10%;
+  padding: 0% 10%;
   position: relative;
   z-index: 1;
 }
@@ -110,6 +110,7 @@ h3 {
 #testimonials {
   background-color: #ff4c68d4;
   color: whitesmoke;
+  padding: 0% 10%;
 }
 
 .testimonial-image {
@@ -126,7 +127,7 @@ h3 {
 /* press */
 #press {
   background-color: #ff4c68d4;
-  padding-bottom: 3%;
+  padding: 2% 10%;
 }
 
 .press-logo {
@@ -159,7 +160,7 @@ h3 {
 /* footer */
 #footer {
   background-color: whitesmoke;
-  padding: 5% 0%;
+  padding: 8% 10%;
 }
 
 .footer-para {
